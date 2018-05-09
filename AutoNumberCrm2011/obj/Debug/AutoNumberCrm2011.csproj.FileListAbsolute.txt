@@ -1,0 +1,5 @@
+D:\Projects\EPA\UGRADED AUTHENTICATED APPS\After CRM 2016 Upgrade\AutoNumberCrm2011\AutoNumberCrm2011\obj\Debug\AutoNumberCrm2011.csprojResolveAssemblyReference.cache
+D:\Projects\EPA\UGRADED AUTHENTICATED APPS\After CRM 2016 Upgrade\AutoNumberCrm2011\AutoNumberCrm2011\bin\Debug\AutoNumberCrm2011.dll
+D:\Projects\EPA\UGRADED AUTHENTICATED APPS\After CRM 2016 Upgrade\AutoNumberCrm2011\AutoNumberCrm2011\bin\Debug\AutoNumberCrm2011.pdb
+D:\Projects\EPA\UGRADED AUTHENTICATED APPS\After CRM 2016 Upgrade\AutoNumberCrm2011\AutoNumberCrm2011\obj\Debug\AutoNumberCrm2011.dll
+D:\Projects\EPA\UGRADED AUTHENTICATED APPS\After CRM 2016 Upgrade\AutoNumberCrm2011\AutoNumberCrm2011\obj\Debug\AutoNumberCrm2011.pdb
