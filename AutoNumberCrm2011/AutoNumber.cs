@@ -15,7 +15,7 @@ namespace AutoNumberCrm2011
 {
     public class AutoNumber : IPlugin
     {
-
+        //changes from Git by bhavik shah
         #region IPlugin Members
 
         public void Execute(IServiceProvider serviceProvider)
